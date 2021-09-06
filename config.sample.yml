@@ -1,0 +1,15 @@
+browser:
+  kind: chromium
+  executablePath: /usr/bin/chromimum-browser
+  headless: true
+logger:
+  kind: console
+devices:
+  - kind: android
+    email: my-email1@gmail.com
+    password: my-password1
+    shortcut: "1"
+  - kind: android
+    email: my-email2@gmail.com
+    password: my-password2
+    shortcut: "2"
