@@ -1,6 +1,6 @@
 {
   "name": "where-did-i-put-it",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "One button to find them all",
   "main": "build/main.js",
   "iohook": {
@@ -32,29 +32,29 @@
   },
   "homepage": "https://github.com/elierotenberg/where-did-i-put-it#readme",
   "dependencies": {
-    "@types/yargs": "^17.0.2",
+    "@types/yargs": "^17.0.5",
     "iohook": "^0.6.6",
-    "js-yaml": "^3.14.1",
-    "puppeteer": "^10.2.0",
-    "puppeteer-extra": "^3.1.18",
-    "puppeteer-extra-plugin-stealth": "^2.7.8",
-    "typescript": "^4.4.2",
-    "yargs": "^17.1.1",
-    "zod": "^3.8.2"
+    "js-yaml": "^4.1.0",
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "typescript": "^4.4.4",
+    "yargs": "^17.2.1",
+    "zod": "^3.11.6"
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.4",
-    "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.4",
-    "@babel/preset-typescript": "^7.15.0",
-    "@types/js-yaml": "^4.0.3",
-    "@types/node": "^16.7.10",
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/js-yaml": "^4.0.4",
+    "@types/node": "^16.11.6",
     "@typescript-eslint/eslint-plugin": "^4.30.0",
     "@typescript-eslint/parser": "^4.30.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.3.2"
+    "prettier": "^2.4.1"
   }
 }
